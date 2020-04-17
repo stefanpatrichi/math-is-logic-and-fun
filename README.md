@@ -1,3 +1,5 @@
+# Math Is Logic and Fun
+School project (I didn't come up with this name lol)
 # RO - Cum rulez programul?
 Dați dublu-click pe programul _pi.bat_ din directorul _bin_.
 # EN - How do I run the program?
