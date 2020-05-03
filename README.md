@@ -1,5 +1,5 @@
 # Math Is Logic and Fun
-School project (I didn't come up with this name lol)
+School project (I didn't come up with this name lol)  
 **Note: this program is only Windows-compatible.**
 # RO - Cum rulez programul?
 Dați dublu-click pe programul _pi.bat_ din directorul _bin_.
